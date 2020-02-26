@@ -13,4 +13,5 @@ for(let i = 0; i < matrix.length; i++){
   	result.push(matrix[i][j]);
   }
 }
+return result;
 }
